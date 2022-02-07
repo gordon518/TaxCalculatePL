@@ -8,6 +8,7 @@ Tax season come again. It's headache when calculating PL(profit or loss) of your
 
 # Run Guide
 1 Install python-3.7.9, and MS-Office<br/>
-2 Use CD command to change your current path to this project.<br/>
-3 Run command of "python taxCalculate_Sample.py" to calculate PL.<br/>
-4 You also can use MS Visual Studio Code to run or debug this python codes.
+2 Run command of "pip install xlwings" to install python library for Excel.<br/>
+3 Use CD command to change your current path to this project.<br/>
+4 Run command of "python taxCalculate_Sample.py" to calculate PL.<br/>
+5 You also can use MS Visual Studio Code to run or debug this python codes.
